@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaPreps/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/JavaPreps/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPreps/Lambdas/Lambdas.iml" filepath="$PROJECT_DIR$/JavaPreps/Lambdas/Lambdas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPreps/ParallelAndThreads.iml" filepath="$PROJECT_DIR$/JavaPreps/ParallelAndThreads.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/exam-prep-repository.iml" filepath="$PROJECT_DIR$/.idea/exam-prep-repository.iml" />
     </modules>
   </component>
