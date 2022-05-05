@@ -21,6 +21,8 @@ public class Processor {
             System.out.println("ENTER key was pressed");
             // notify(); // will notify just 1 thread. Be careful ! 2 Threads are on lock
             notifyAll(); // will notify all threads
+            System.out.println("Finishing consume ... slowly ... Please wait ...");
+            Thread.sleep(4000);
         }
     }
 }
